@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#t-bar {
+    background-color: #222F3E;
+    padding: 40px;
+    color: white;
+}
+
+#t-bar img {
+    width: 10%;
+}
+
+.b-bar {
+    background-color: #354758;
+    padding: 20px;
+    color: white;
+}
+
+main {
+    background-color: #EAEDED;
+    padding: 30px;
+}
+
+#title {
+    color: white;
+    text-align: center;
+}
+
+#t-title {
+    background-color: #F56600;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#b-title {
+    background-image: url(./assets/bg-image.png);
+    background-position: center;
+    background-repeat: repeat;
+    padding: 80px;
+    margin-bottom: 30px;
+}
+
+#explore {
+    position: relative;
+}
+
+#explore div {
+    padding-bottom: 50px;
+}
+
+#t-gallery {
+    background-color: #EAEDED;
+    height: 400px;
+    text-align: start;
+    margin-bottom: 20px;
+}
+
+.img-box-1 {
+    width: 23%;
+    height: 100%;
+    margin: 10px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px 3px rgba(119, 119, 119, 0.58)
+}
+
+.img-box-2 {
+    width: 100%;
+}
+
+#img-table {
+    width: 90%;
+    height: 150px;
+}
+
+.table-title {
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+}
+
+.table-cont {
+    background-color: white;
+    padding-right: 15px;
+}
+
+.td {
+    padding: 15px;
+}
+
+.sticker img {
+    height: 50px;
+    
+}
+
+.new-1 {
+    position: absolute;
+    top: 77%;
+    left: 34%;
+}
+
+.new-2 {
+    position: absolute;
+    top: 85.6%;
+    left: 45.3%;
+}
+
+.new-3 {
+    position: absolute;
+    top: 77%;
+    left: 59%;
+}
+
+.img {
+    width: 140px;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+
+}
+
+.see-more {
+    color: blue;
+}
+
+#closer {
+    background-color: #222F3E;
+    color: white;
+    text-align: center;
+    padding: 80px;
+}
+
+#closer img {
+    width: 10%;
+}
